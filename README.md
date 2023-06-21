@@ -4,9 +4,10 @@
 
 #### A little bit about me:
 - I'm a Data Analyst with a passion for overcoming challenges 🚀
-- I'm skilled in SQL, Tableau, Power BI, Excel, Python, and Salesforce CRM
+- I'm skilled in SQL, Tableau, Power BI, Excel, Python, and Salesforce CRM 🔭
 - I'm Brazilian and I live in Florianópolis 🇧🇷
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 📫
+- In my free time and I used to 
 
 <!--
 **fabiohtuda/fabiohtuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

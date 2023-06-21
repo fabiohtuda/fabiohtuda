@@ -4,6 +4,7 @@
 
 #### A little bit about me:
 - I'm a Data Analyst with a passion for overcoming challenges 🚀
+- I'm skilled in SQL, Tableau, Power BI, Excel, Python, and Salesforce CRM
 - I'm Brazilian and I live in Florianópolis 🇧🇷
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 
 

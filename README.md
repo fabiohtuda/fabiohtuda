@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Fábio 👋
 I am a data analyst / BI developer with 5+ years of experience in helping companies unlock the power of their data to drive growth and make informed business decisions.
 
-## 🔍 Skills:
+## 🎯 Skills:
 - SQL, Tableau, PowerBI, Excel, Python, Salesforce CRM
 
-- ## 🔍 Projects:
+## 🔍 Projects:
 - [Check the portfolio here:](https://fabiohtuda.github.io)
 
 ## 🎓 Education

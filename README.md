@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Fábio 👋
+## 👋 Hi there, I'm Fábio 
 I am a data analyst / BI developer with 5+ years of experience in helping companies unlock the power of their data to drive growth and make informed business decisions.
 
 ## 🎯 Skills:

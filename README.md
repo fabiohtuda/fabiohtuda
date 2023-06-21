@@ -8,8 +8,9 @@ I am a data analyst / BI developer with 5+ years of experience in helping compan
 - [Check the portfolio here:](https://fabiohtuda.github.io)
 
 ## 🎓 Education
-- **Bachelor's Degree**: Engineering - Santa Catarina State University
-- **Data Analytics Certification**: Data Science Fundamentals - Udacity
+- **Bachelor's Degree**: Engineering - Santa Catarina State University (2009-2015)
+- **Data Analytics Certification**: Data Science Fundamentals - Udacity (2018)
+- **Data Analytics Courses**: SQL (Udacity), PowerBI (Udemy), Tableau (DataCamp), Python (DataCamp), Analytics Engineering Bootcamp (Udemy)
 
 ## 📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 
 

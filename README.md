@@ -3,9 +3,9 @@
 ### Hi there, I'm Fábio 👋
 
 #### A little bit about me:
-- 🔭 I'm a Data Analyst with a passion for overcoming challenges 🚀
+- I'm a Data Analyst with a passion for overcoming challenges 🚀
 - I'm Brazilian and I live in Florianópolis 🇧🇷
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/fabiohtuda/): 
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 
 
 <!--
 **fabiohtuda/fabiohtuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

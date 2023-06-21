@@ -1,14 +1,14 @@
 ### Hi there, I'm Fábio 👋
 I am a data analyst / BI developer with 5+ years of experience in helping companies unlock the power of their data to drive growth and make informed business decisions.
 
-#### Skills:
+### Skills:
 - SQL, Tableau, PowerBI, Excel, Python, Salesforce CRM
 
-## Education
+### Education
 - **Bachelor's Degree**: Engineering - Santa Catarina State University
 - **Data Analytics Certification**: Data Science Fundamentals - Udacity
 
-## 📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 
+### 📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/fabiohtuda/) 
 
 <!--
 **fabiohtuda/fabiohtuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
